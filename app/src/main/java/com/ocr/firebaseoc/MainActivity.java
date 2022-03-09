@@ -1,10 +1,10 @@
-package com.openclassrooms.firebaseoc;
+package com.ocr.firebaseoc;
 
 import androidx.annotation.Nullable;
 
 import android.os.Bundle;
 
-import com.openclassrooms.firebaseoc.databinding.ActivityMainBinding;
+import com.ocr.firebaseoc.databinding.ActivityMainBinding;
 
 public class MainActivity extends BaseActivity<ActivityMainBinding> {
 

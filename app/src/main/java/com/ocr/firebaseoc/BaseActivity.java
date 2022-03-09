@@ -1,4 +1,4 @@
-package com.openclassrooms.firebaseoc;
+package com.ocr.firebaseoc;
 
 import android.os.Bundle;
 import android.view.View;

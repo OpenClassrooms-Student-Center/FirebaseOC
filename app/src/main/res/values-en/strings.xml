@@ -1,0 +1,40 @@
+<resources>
+    <string name="main_activity_description">Chat with your mentors</string>
+
+    <string name="login">Login</string>
+    <string name="chat_with_mentor">Chat with a mentor</string>
+
+    <!-- NOTIFICATION SERVICE -->
+    <string name="notification_title">You have a new notification</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="error_not_connected">Please log in first</string>
+    <string name="error_authentication_canceled">Login aborted</string>
+    <string name="error_no_internet">Network unavailable</string>
+    <string name="error_unknown_error">An unknown error occurred</string>
+    <string name="connection_succeed">Login successful!</string>
+    <string name="button_login_text_logged">View your profile</string>
+    <string name="button_login_text_not_logged">Log In</string>
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="toolbar_title_login_activity">Your Profile</string>
+    <string name="text_input_username">Username</string>
+    <string name="text_view_email">Email address:</string>
+    <string name="button_update_account">Change username</string>
+    <string name="button_delete_account">Delete my account</string>
+    <string name="button_sign_out_account">Log Out</string>
+    <string name="info_no_email_found">No email address found</string>
+    <string name="info_no_username_found">No username found</string>
+    <string name="popup_message_confirmation_delete_account">Are you sure you want to delete your account?</string>
+    <string name="popup_message_choice_yes">Yes</string>
+    <string name="popup_message_choice_no">No</string>
+    <string name="check_box_is_mentor">Are you a mentor?</string>
+
+    <!-- MENTOR_CHAT ACTIVITY -->
+    <string name="toolbar_title_mentor_chat_activity">Chat Rooms</string>
+    <string name="text_input_title_mentor_chat_activity">Write your message</string>
+    <string name="button_title_mentor_chat_activity">SEND</string>
+    <string name="text_view_mentor_chat_error">This thread has no messages</string>
+    <string name="popup_title_permission_files_access">To attach a photo, Firebase OC requires additional permissions.</string>
+    <string name="toast_title_no_image_chosen">No image chosen</string>
+</resources>
